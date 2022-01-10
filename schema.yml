@@ -81,7 +81,7 @@ variables:
   drg_id:
     title: "Compartment DRG"
     description: "DRG"
-    type: oci:identity:dynamicroutegateway:id
+    type: oci:identity:dynamicroutinggateway:id
     required: true
     visibile: true
     dependsOn: 
